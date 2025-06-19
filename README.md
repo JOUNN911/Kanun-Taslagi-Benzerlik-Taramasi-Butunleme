@@ -3,11 +3,11 @@ Kanun Taslağı Benzerlik Taraması
 dosyanın açıldığı klasöre "gazeteler" isimli yeni bir klasör oluşturun.
 eğitilmesini istediğiniz metin dosyalarını lütfen .txt dosyası halinde olsun. aksi taktirde oluşturulan modeller okunaklı olmaz.
 
-Gerekli Teknolojiler:
-•	Python 3.0
-•	Pandas 
-•	Numpy
-•	Gensim (Word2Vac)
-•	Zeyrek (Türkçe Morfolojik Analiz)
-•	Snowballstemmer
+Gerekli Teknolojiler: <br>
+•	Python 3.0 <br>
+•	Pandas <br>
+•	Numpy <br>
+•	Gensim (Word2Vac) <br>
+•	Zeyrek (Türkçe Morfolojik Analiz) <br>
+•	Snowballstemmer <br>
 Bu paketler olmadan proje çalışmaz.
